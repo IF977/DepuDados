@@ -3,7 +3,7 @@
 # Projeto: DepuDados
 ## Equipe:
 - Paulo Marques ([@pemsm](https://github.com/pemsm)): Líder
-- Marcus Tiberius (([@marcustib](https://github.com/marcustib)): Desenvolvedor
+- Marcus Tiberius ([@marcustib](https://github.com/marcustib)): Desenvolvedor
 
 ## Página da Aplicação: Em Breve
 ## Screencast da Aplicação: Em Breve.
