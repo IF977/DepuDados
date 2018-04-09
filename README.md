@@ -5,7 +5,7 @@
 - Paulo Marques: Líder
 - Marcus Tiberius: Desenvolvedor
 
-## Página da Aplicação: Em Breve.
+## Página da Aplicação: Em Breve
 ## Screencast da Aplicação: Em Breve.
 
 ## Justificativa
