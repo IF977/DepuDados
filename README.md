@@ -2,8 +2,8 @@
 
 # Projeto: DepuDados
 ## Equipe:
-- Paulo Marques: Líder
-- Marcus Tiberius: Desenvolvedor
+- Paulo Marques (@pemsm): Líder
+- Marcus Tiberius (@marcustib): Desenvolvedor
 
 ## Página da Aplicação: Em Breve
 ## Screencast da Aplicação: Em Breve.
