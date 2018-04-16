@@ -14,9 +14,9 @@ Início da iteração | Término da iteração
 - Definição as  principais funcionalidades da Aplicação `[Equipe]`
 - Aprendizer a Linguagem Ruby e Terminar trilha do CodeAcademy `[Equipe]`
 - Definição do cronograma com auxílio da ferramenta Trello `[Equipe]`[[Trello](https://trello.com/b/pWVQZWYk/agora-vai)]
-- Criação das Histórias de usuário [[@Paulo Marques](https://github.com/pemsm)
-- Criação de Mockups e Storyboards Lo-Fi [[@Marcus Gomes](https://github.com/marcustib]
-- Ajustar Labels e Milestones das Issues no Github [@Marcus Gomes](https://github.com/marcustib)]
+- Criação das Histórias de usuário ([@Paulo Marques](https://github.com/pemsm))
+- Criação de Mockups e Storyboards Lo-Fi ([@Marcus Gomes](https://github.com/marcustib])
+- Ajustar Labels e Milestones das Issues no Github [@Paulo Marques](https://github.com/pemsm)]
 
 #### O que foi feito
 - Elaboração do README com a descrição do projeto
@@ -27,9 +27,9 @@ Início da iteração | Término da iteração
 - Criação das histórias de usuário
 - Criação de Mockups e Storyboards Lo-Fi
 - Aprender a Linguagem Ruby e Terminar trilha do CodeAcademy
+- Ajustar Labels e Milestones das Issues no Github
 
 ### O que não foi feito
-- Ajustar Labels e Milestones das Issues no Github
 
 #### Planejado para a próxima iteração
 - Início do desenvolvimento `[Equipe]`
@@ -37,6 +37,7 @@ Início da iteração | Término da iteração
 - Aprofundar conhecimentos em Ruby on Rails e utilização da arquitetura MVC `[Equipe]`
 - Começar a desenvolver parte das histórias de usuário `[Equipe]`
 - Pesquisar e definir API's a serem utilizadas `[Equipe]`
+- Criar as issues com base nas historias do usuário ([@Marcus Gomes](https://github.com/marcustib])
 
 
 #### Lições aprendidas
