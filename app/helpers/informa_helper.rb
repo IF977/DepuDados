@@ -1,0 +1,2 @@
+module InformaHelper
+end
