@@ -52,7 +52,7 @@ GEM
       msgpack (~> 1.0)
     builder (3.2.3)
     byebug (10.0.2)
-    capybara (3.0.2)
+    capybara (3.0.3)
       addressable
       mini_mime (>= 0.1.3)
       nokogiri (~> 1.8)
@@ -107,7 +107,7 @@ GEM
       mini_portile2 (~> 2.3.0)
     public_suffix (3.0.2)
     puma (3.11.4)
-    rack (2.0.4)
+    rack (2.0.5)
     rack-test (1.0.0)
       rack (>= 1.0, < 3)
     rails (5.2.0)
@@ -177,7 +177,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (4.1.10)
       execjs (>= 0.3.0, < 3)
-    web-console (3.6.1)
+    web-console (3.6.2)
       actionview (>= 5.0)
       activemodel (>= 5.0)
       bindex (>= 0.4.0)
@@ -212,7 +212,7 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 RUBY VERSION
-   ruby 2.3.4p301
+   ruby 2.4.4p296
 
 BUNDLED WITH
-   1.15.4
+   1.16.1
