@@ -1,3 +1,3 @@
-Then(/^I should see the text ([^'']*)$/) do |text|
+Then(/^I should see ([^"]*)$/) do |text|
   expect(page).to have_content(text)
 end

@@ -1,5 +1,10 @@
-Feature: Go to the Informação page
-  Scenario: Successfully visiting information page
-  Given I am on the home page
-  When I click on the Informação text
-  Then I Should see the text Progresso do projeto
+Feature: Acessar Página Informações
+  Como usuário
+  Quero poder acessar uma página contendo informações úteis
+  Para poder me informar sobre o andamento do projeto
+
+  Background: Começando na página inicial
+    Scenario: Acessando a página de Informações com sucesso(caminho feliz)
+    Given I am on the home page
+    When I visit informa/index link
+    Then I should see Progresso do projeto

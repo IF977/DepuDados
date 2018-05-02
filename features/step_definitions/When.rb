@@ -1,3 +1,3 @@
-When(/^[I ]*click on the ([^"]*) text$/) do |text|
-    click_on('text')
+When(/^I visit ([^"]*) link$/) do |link|
+  visit(link)
 end
