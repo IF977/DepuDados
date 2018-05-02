@@ -9,3 +9,7 @@ end
 When(/^[I ]*click on the ([^"]*) button$/) do |button|
   click_button(button)
 end
+
+When(/^[I ]*select ([^"]*) on the ([^"]*)$/) do |data, selection|
+  select('data', :from => 'selection')
+end

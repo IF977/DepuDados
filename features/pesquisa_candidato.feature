@@ -1,4 +1,4 @@
-Feature: Acessar Página Informações
+Feature: Realizar consulta pela página de pesquisa
   Como usuário
   Quero ter acesso as informações específicas de determinado candidato
   para contar com uma maior transparência
