@@ -5,7 +5,7 @@ Feature: Consultar Despesas de um candidato
 
   Background: Começando da página inicial
     Given I am on the home page
-    When I click on the Nordeste button
+    When I click on the Brasil button
     And I click on the Pernambuco button
     And I fill Recife on the cidade input
 
