@@ -9,9 +9,10 @@ Feature: Realizar consulta pela página de pesquisa
 
   Scenario: Realizando uma consulta de candidato com sucesso(caminho feliz)
     When I fill candidato.nome input with "Michelle Collins"
+    And I click on the btn btn-default button
     Then I should see Nome: Michelle Collins
 
   Scenario: Não preenchendo nome do candidato (Caminho triste)
-    When candidato.nome input is empty
-    And I click on the buscar button
+    When I fill nil input with "Michelle Collins"
+    When I click on the btn btn-default button
     Then I should see Preencha o nome de um candidato

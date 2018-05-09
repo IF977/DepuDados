@@ -7,8 +7,12 @@ Feature: Consultar Despesas de um candidato
     Given I am on the home page
     When I click on the Nordeste button
     And I click on the Pernambuco button
-    And I select Recife on the select_box_cidade
+    And I fill Recife on the cidade input
 
   Scenario: Realizando uma consulta de candidato com sucesso(caminho feliz)
-    When I select Michelle Collins on the select_box_canditato
+    When I select Michelle Collins on the select_box
     Then I should see Nome: Michelle Collins
+
+  Scenario: Realizando uma consulta de candidato Inexistente(caminho triste)
+    When I select Elon Musk on the select_box_canditato
+    Then I should see candidato inexistente

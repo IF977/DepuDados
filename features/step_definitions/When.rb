@@ -1,3 +1,7 @@
+When(/^[I ]*click on the ([^"]*) link$/) do |link|
+    click_link(link)
+end
+
 When(/^I visit ([^"]*) link$/) do |link|
   visit(link)
 end
@@ -12,4 +16,8 @@ end
 
 When(/^[I ]*select ([^"]*) on the ([^"]*)$/) do |data, selection|
   select('data', :from => 'selection')
+end
+
+When(/^put ([^"]*) on the ([^"]*) input$/) do |data,input|
+    fill_in(input, :with => data)
 end
