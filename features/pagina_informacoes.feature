@@ -6,5 +6,5 @@ Feature: Acessar Página Informações
   Background: Começando na página inicial
     Scenario: Acessando a página de Informações com sucesso
     Given I am on the home page
-    When I visit informa/index link
+    When I visit informa link
     Then I should see Progresso do projeto

@@ -5,7 +5,7 @@ Feature: Realizar consulta pela página de pesquisa
 
   Background: Começando da página inicial
     Given I am on the home page
-    When I visit pesquisa/index link
+    When I visit pesquisa link
 
   Scenario: Realizando uma consulta de candidato com sucesso(caminho feliz)
     When I fill candidato.nome input with "Michelle Collins"
