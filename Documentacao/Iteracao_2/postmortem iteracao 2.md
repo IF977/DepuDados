@@ -17,20 +17,21 @@ Início da iteração | Término da iteração
 
 - Implementação de +2 HU's ([@Paulo Marques](https://github.com/pemsm)]([@Marcus Gomes](https://github.com/marcustib]))
 - Implementação dos testes TDD e BDD ([@Paulo Marques](https://github.com/pemsm))
-- Deploy da issues #9
+- Deploy da issues #9 #16 #14
 
 #### O que não foi feito
 
--
+- Deploy das issues #13, #12, #10
 
 #### Planejado para a próxima iteração
 
 - Contiuação do desenvolvimento
+- Estudo da api Httparty
 - Criação de novos testes
-- Desenvolvimento e deploy das issue
+- Desenvolvimento e deploy das issue #13, #12, #10
 
 #### Lições aprendidas
 
-- A importância da utilização de issues.
 - Gerenciamento do tempo e subdivisão de tarefas
-- Criação de testes com a praticidade de Ruby.
+- Criação de testes TDD e BDD.
+- Criação das paginas e uso das rotas.

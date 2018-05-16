@@ -2,7 +2,8 @@ class HomeController < ApplicationController
   def index
   end
 
-  def regioes
+  def regiao
+#    render "regiao/"
   end
 
   def show
