@@ -4,4 +4,7 @@ class HomeController < ApplicationController
 
   def estados
   end
+
+  def regiao
+  end
 end
