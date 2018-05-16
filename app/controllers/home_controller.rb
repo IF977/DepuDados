@@ -2,9 +2,11 @@ class HomeController < ApplicationController
   def index
   end
 
-  def estados
+  def regiao
+#    render "regiao/"
   end
 
-  def regiao
+  def show
+    render "home/#{params[:page]}"
   end
 end
