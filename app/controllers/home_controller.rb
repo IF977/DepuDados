@@ -3,7 +3,6 @@ class HomeController < ApplicationController
   end
 
   def regiao
-#    render "regiao/"
   end
 
   def show
