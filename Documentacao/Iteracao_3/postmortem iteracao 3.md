@@ -1,15 +1,15 @@
 ### DepuDados
-### `Postmortem - Iteração 2`
+### `Postmortem - Iteração 3`
 
 Início da iteração | Término da iteração
 -------------------|--------------------
-30/04/2018 | 14/05/2018
+14/05/2018 | 28/05/2018
 
 
 #### O que estava planejado
 
 - Implementação de +2 HU's ([@Marcus Gomes](https://github.com/marcustib]) e ([@Paulo Marques](https://github.com/pemsm))
-- Postmortem da 2ª iteração ([@Marcus Gomes](https://github.com/marcustib]))
+- Postmortem da 3ª iteração ([@Marcus Gomes](https://github.com/marcustib]))
 - Implementação dos testes TDD e BDD ([@Paulo Marques](https://github.com/pemsm))
 
 
@@ -17,20 +17,23 @@ Início da iteração | Término da iteração
 
 - Implementação de +2 HU's ([@Paulo Marques](https://github.com/pemsm))([@Marcus Gomes](https://github.com/marcustib]))
 - Implementação dos testes TDD e BDD ([@Paulo Marques](https://github.com/pemsm))
-- Deploy da issues #9
+- Deploy da issues #13, #12, #19, #22
+- Testes
 
 #### O que não foi feito
 
--
+- Modelo ER
+- Implementação do CSS #21
 
 #### Planejado para a próxima iteração
 
 - Contiuação do desenvolvimento
 - Criação de novos testes
-- Desenvolvimento e deploy das issue
+- Desenvolvimento e deploy das issue #13, #12, #19, #22, #21
+- Aprender
 
 #### Lições aprendidas
 
-- A importância da utilização de issues.
 - Gerenciamento do tempo e subdivisão de tarefas
-- Criação de testes com a praticidade de Ruby.
+- Uso eficaz do yield
+- Controller e integração do banco com as paginas.
