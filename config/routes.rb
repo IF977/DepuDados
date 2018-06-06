@@ -4,8 +4,7 @@ Rails.application.routes.draw do
   get 'equipe' => 'equipe#index'
   get 'informa' => 'informa#index'
   get 'home'=>  'home#index'
-  get 'regiao', to: 'home#regiao'
-  get 'regiao/*page', to: 'home#show'
+  get 'home/*page', to: 'home#show'
   get 'nos-contate', to: 'contatos#new'
 
   root 'home#index'
