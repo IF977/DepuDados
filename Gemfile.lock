@@ -146,7 +146,7 @@ GEM
     multi_test (0.1.2)
     multi_xml (0.6.0)
     nio4r (2.3.0)
-    nokogiri (1.10.5)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     pg (1.0.0)
     popper_js (1.14.5)
